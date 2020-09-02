@@ -152,7 +152,7 @@ function die() {
 
 function endGame() {
 	document.body.innerHTML = "";
-	alert("Game over");
+	alert("Пиздец!");
 	location.reload();
 }
 
